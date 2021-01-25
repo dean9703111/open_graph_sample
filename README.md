@@ -61,8 +61,8 @@ OG 全名 Open Graph Protocol，由 Facebook 提出，目的在於透過定義�
 如果你想要更深入的了解FB對這塊的定義請參考他們[給網站管理員的分享功能指南](https://developers.facebook.com/docs/sharing/webmasters?locale=zh_TW)
 
 ### 使用官方工具預覽確認元素
-1. 進入 FB 提供的工具：https://developers.facebook.com/tools/debug/
-2. 貼上自己的網址下下偵錯就能在下方看到預覽嚕
+1. 網頁設定完成後，使用 [FB 提供的工具](https://developers.facebook.com/tools/debug/)  來做檢查
+2. 貼上自己的網址按下偵錯就能看到預覽嚕
     ![image](/img/README/debug.png)
 3. 如果發現顯示結果跟預期的不一樣，請觀看`應處理的警告`
     ![image](/img/README/debug2.png)
